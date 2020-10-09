@@ -10,7 +10,7 @@ namespace Ejerciciobasico1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola");
+            Console.WriteLine("¡Hola Mundo! Estoy programando en C#");
         }
     }
 }
